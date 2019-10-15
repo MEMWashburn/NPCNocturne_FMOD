@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="Workspace" id="{ab802171-1c43-4008-bcb0-38e3f27109a3}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../../../../Program Files/Unity Projects/NPC Nocturne Test/FMODAssets</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{648b35d7-a94c-45da-b295-aab743182689}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{2557d8fb-f5ee-4e60-bea4-8e8ffd7d7d3a}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{92f135b8-1c0f-4d2d-a839-9afe54161039}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{435587c5-736c-41cd-aaae-8e9ad0ab6fef}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{493d4bc4-2d95-4de1-99dc-91aa1de3af43}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{f8c148df-2ef0-44d5-815b-b5d60bf7d421}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{b33a62e8-a7a3-41bb-a09f-19318442e699}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{479bbbd1-a784-4191-88ab-68a505998fc6}</destination>
+		</relationship>
+	</object>
+</objects>
